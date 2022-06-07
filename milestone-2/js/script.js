@@ -1,4 +1,9 @@
 //MILESTONE 2
+/* 
+Per ogni numero, data una ul nel DOM,
+aggiungete un elemento html li con il numero o la stringa corretta
+(seguendo le regole della Milestone 1).
+*/
 
 const boxContainer = document.querySelector('.box-container')
 // Scrivo un programma che stampi i numeri da 1 a 100.
